@@ -11,7 +11,7 @@ and would like to test QuestDB with test data, you can use some of the following
 - New York Taxi Data **[download](https://data.cityofnewyork.us/Transportation/2018-Yellow-Taxi-Trip-Data/t29m-gskq)**
 - Movielens project **[download](https://grouplens.org/datasets/movielens/)**
 
-Simply download & extract the file. We recommend you do this in the `/tpm/` folder.
+Simply download & extract the file. We recommend you do this in the `/tmp/` folder.
 
 ## Generating data
 
